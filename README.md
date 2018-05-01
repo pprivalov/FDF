@@ -9,7 +9,7 @@ This project is about creating a simplified graphic “wireframe” (“fils de 
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Controls](#controls)
-- [Map]
+- [Map](#map)
 - [Examples](#examples)
 
 ## Requirements
@@ -25,7 +25,7 @@ make && ./fdf test_maps/42.fdf
 ```
 
 ## Controls
-
+```
 Rotations: W/A - around X
            S/D - around Y
            Q/E - around Z
@@ -40,7 +40,7 @@ Change color: NUM4/NUM1 - red color
 Return to basic: R
 Reset all paramaters: Backspace
 Close window: ESC
-
+```
 ## Map
 
 #### Each number corresponds to a point in space:
