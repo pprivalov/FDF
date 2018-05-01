@@ -40,7 +40,7 @@ int			main(int ac, char **av)
 		{
 			mlx.mlx = mlx_init();
 			mlx.win = mlx_new_window(mlx.mlx, WIN_WIDTH, WIN_HEIGHT,
-														"fdf_mazafucka");
+														"FDF");
 			mlx.g_start_scale = (WIN_WIDTH + WIN_HEIGHT) /
 							(mlx.map.width + mlx.map.height) / 2;
 			mlx.scale = (t_vector){mlx.g_start_scale, mlx.g_start_scale,
